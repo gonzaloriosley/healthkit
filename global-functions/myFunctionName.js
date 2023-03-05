@@ -4,7 +4,7 @@ const myFunctionName = () => {
   // Type the code for the body of your function or hook here.
   // Functions can be triggered via Button/Touchable actions.
   // Hooks are run per ReactJS rules.
-  window.alert('hola');
+  window.alert('hola y adios');
   /* String line breaks are accomplished with backticks ( example: `line one
 line two` ) and will not work with special characters inside of quotes ( example: "line one line two" ) */
 };
